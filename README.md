@@ -119,6 +119,7 @@ This will open a new tab in your browser where you can start casting Python spel
 ## 🧙‍♀️ The Journey Through the Iris Dataset
 
 Once inside **Jupyter Lab**, open the notebook files from this repository and embark on an adventure through the mystical realm of **EDA and ML with the Iris Dataset**. You will:
+
 - Visualize the dataset with beautiful plots.
 - Uncover hidden patterns within the dataset.
 - Build an ML model that classifies the different Iris species.
